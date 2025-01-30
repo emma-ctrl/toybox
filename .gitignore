@@ -170,5 +170,8 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-#large data files
+# large data files
 /data
+
+# large checkpoint files
+toybox_model_checkpoint_epoch_*.pth
